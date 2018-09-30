@@ -108,16 +108,6 @@
             ]
         },
         {
-            "name": "nevermore",
-            "id": 11,
-            "localized_name": "Shadow Fiend",
-            "skills": [
-                "Ranged",
-                "Carry",
-                "Nuker"
-            ]
-        },
-        {
             "name": "morphling",
             "id": 10,
             "localized_name": "Morphling",
@@ -128,6 +118,16 @@
                 "Durable",
                 "Nuker",
                 "Disabler"
+            ]
+        },
+        {
+            "name": "nevermore",
+            "id": 11,
+            "localized_name": "Shadow Fiend",
+            "skills": [
+                "Ranged",
+                "Carry",
+                "Nuker"
             ]
         },
         {
@@ -282,6 +282,18 @@
             ]
         },
         {
+            "name": "monkey_king",
+            "id": 24,
+            "localized_name": "Monkey King",
+            "skills": [
+                "Melee",
+                "Carry",
+                "Escape",
+                "Disabler",
+                "Initiator"
+            ]
+        },
+        {
             "name": "lina",
             "id": 25,
             "localized_name": "Lina",
@@ -291,16 +303,6 @@
                 "Carry",
                 "Nuker",
                 "Disabler"
-            ]
-        },
-        {
-            "name": "lich",
-            "id": 31,
-            "localized_name": "Lich",
-            "skills": [
-                "Ranged",
-                "Support",
-                "Nuker"
             ]
         },
         {
@@ -362,6 +364,16 @@
                 "Support",
                 "Nuker",
                 "Disabler"
+            ]
+        },
+        {
+            "name": "lich",
+            "id": 31,
+            "localized_name": "Lich",
+            "skills": [
+                "Ranged",
+                "Support",
+                "Nuker"
             ]
         },
         {
@@ -784,6 +796,17 @@
             ]
         },
         {
+            "name": "ancient_apparition",
+            "id": 68,
+            "localized_name": "Ancient Apparition",
+            "skills": [
+                "Ranged",
+                "Support",
+                "Disabler",
+                "Nuker"
+            ]
+        },
+        {
             "name": "doom_bringer",
             "id": 69,
             "localized_name": "Doom",
@@ -793,17 +816,6 @@
                 "Disabler",
                 "Initiator",
                 "Durable",
-                "Nuker"
-            ]
-        },
-        {
-            "name": "ancient_apparition",
-            "id": 68,
-            "localized_name": "Ancient Apparition",
-            "skills": [
-                "Ranged",
-                "Support",
-                "Disabler",
                 "Nuker"
             ]
         },
@@ -1236,6 +1248,16 @@
             ]
         },
         {
+            "name": "techies",
+            "id": 105,
+            "localized_name": "Techies",
+            "skills": [
+                "Ranged",
+                "Nuker",
+                "Disabler"
+            ]
+        },
+        {
             "name": "ember_spirit",
             "id": 106,
             "localized_name": "Ember Spirit",
@@ -1295,16 +1317,6 @@
                 "Nuker",
                 "Initiator",
                 "Escape",
-                "Disabler"
-            ]
-        },
-        {
-            "name": "techies",
-            "id": 105,
-            "localized_name": "Techies",
-            "skills": [
-                "Ranged",
-                "Nuker",
                 "Disabler"
             ]
         },
