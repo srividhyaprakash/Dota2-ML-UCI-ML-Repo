@@ -8,4 +8,4 @@ Baseline Testing Accuracies:
   3. 53.8% - AdaBoostClassifier
   4. 51.5% - BaggingClassifier
   5. 51.5% - ExtraTreesClassifier
-  6. 55.2% - GradientBoostingClassifier (Took about 45 minutes of runtime on a CPU.
+  6. 55.2% - GradientBoostingClassifier (Took about 45 minutes of runtime on a CPU).
